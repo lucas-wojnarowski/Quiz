@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What is the output of the following code snippet?\nprint(3 + 5 * 2 - 6 // 3)",
+    "options": {
+      "a": "8",
+      "b": "10",
+      "c": "11",
+      "d": "12"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "What will be the output of the following code?\nprint(\"Hello\" + 3)",
+    "options": {
+      "a": "Hello3",
+      "b": "3Hello",
+      "c": "TypeError",
+      "d": "None of the above"
+    },
+    "answer": "c"
+  },
+    {
+    "question": "What is Python?",
+    "options": {
+      "a": "A high-level programming language",
+      "b": "A type of snake",
+      "c": "A computer brand",
+      "d": "A kind of dessert"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "What is the command used to print something to the console in Python?",
+    "options": {
+      "a": "print()",
+      "b": "console.log()",
+      "c": "document.write()",
+      "d": "printf()"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Which of the following is NOT a built-in data type in Python?",
+    "options": {
+      "a": "int",
+      "b": "bool",
+      "c": "str",
+      "d": "double"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "What is the keyword used to define a function in Python?",
+    "options": {
+      "a": "def",
+      "b": "function",
+      "c": "define",
+      "d": "func"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "What does the modulo operator (%) do in Python?",
+    "options": {
+      "a": "Divides two numbers and returns the remainder",
+      "b": "Multiplies two numbers",
+      "c": "Adds two numbers",
+      "d": "Subtracts two numbers"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "What is the purpose of the \"if\" statement in Python?",
+    "options": {
+      "a": "To check a condition",
+      "b": "To define a function",
+      "c": "To define a loop",
+      "d": "To import a module"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "What is the syntax for creating a list in Python?",
+    "options": {
+      "a": "(1, 2, 3)",
+      "b": "[1, 2, 3]",
+      "c": "{1, 2, 3}",
+      "d": "\"1, 2, 3\""
+    },
+    "answer": "b"
+  },
+  {
+    "question": "What does the \"len()\" function do in Python?",
+    "options": {
+      "a": "Returns the length of a string or list",
+      "b": "Calculates the absolute value of a number",
+      "c": "Rounds a number to the nearest integer",
+      "d": "Returns the square root of a number"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "What is the purpose of the \"for\" loop in Python?",
+    "options": {
+      "a": "To iterate over a sequence of elements",
+      "b": "To check a condition",
+      "c": "To define a function",
+      "d": "To import a module"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "What does the \"try\" and \"except\" block do in Python?",
+    "options": {
+      "a": "Catches and handles errors",
+      "b": "Defines a function",
+      "c": "Defines a loop",
+      "d": "Imports a module"
+    },
+    "answer": "a"
+  }
+]
